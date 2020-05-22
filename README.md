@@ -5,4 +5,4 @@ A web application that generates a password.  This password can range from 8 to 
 Published website: https://grantgarrison7.github.io/password_generator/
 
 
-![screenshot](Password_generator.png)
+![screenshot](./Develop/Password_generator.png) 
